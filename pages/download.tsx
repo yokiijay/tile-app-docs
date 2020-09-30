@@ -38,7 +38,7 @@ const DownloadPage: FC = () => {
       }}>
         <Box className='center-object-title' css={centerObjectTitleCSS} borderBox>
           <h1>Tile App.</h1>
-          <p>Download the Tile App. MacOs, Win supported.</p>
+          <p>Download the Tile App. MacOS, Win supported.</p>
         </Box>
       </motion.div>
 
