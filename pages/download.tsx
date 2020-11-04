@@ -69,7 +69,7 @@ const DownloadPage: FC = () => {
             <FaApple /> <Box ml={3}><a href="https://github.com/yokiijay/tile-app-docs/releases/download/0.1.0/Tile.App-0.1.0.dmg" download="Tile App">For Mac</a></Box>
           </Box>
           <Box className="download__item" row pointer>
-            <FaWindows /> <Box ml={3}><a href="https://github.com/yokiijay/tile-app-docs/releases/download/0.1.0/Tile.App.Setup.0.1.0.exe" download="Tile App">For Windows</a></Box>
+            <FaWindows /> <Box ml={3}><a href="https://github.com/yokiijay/tile-app/releases/download/v1.0.0/Tile.App.Setup.1.0.0.exe" download="Tile App">For Windows</a></Box>
           </Box>
         </Box>
       </Box>
